@@ -10,7 +10,6 @@ void srtviz::algorithms::selection_sort(int *numbers, int len, sf::RenderWindow 
     for (int i = 0; i < len; i++)
     {
         int temp = numbers[i], pos = i;
-
         for (int j = i; j < len; j++)
             if (numbers[j] < temp)
             {

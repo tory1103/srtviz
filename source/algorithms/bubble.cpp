@@ -20,7 +20,5 @@ void srtviz::algorithms::bubble_sort(int *numbers, int len, sf::RenderWindow &wi
 
             srtviz::utils::draw_array(numbers, len, window);
         }
-
-
 }
 
