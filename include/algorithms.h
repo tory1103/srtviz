@@ -8,5 +8,6 @@
 #include "algorithms/bubble.h"
 #include "algorithms/selection.h"
 #include "algorithms/insertion.h"
+#include "algorithms/mergesort.h"
 
 #endif //SRTVIZ_ALGORITHMS_H

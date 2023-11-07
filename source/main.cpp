@@ -15,6 +15,7 @@ int main()
     algorithms[1] = {srtviz::algorithms::bubble_sort, "Bubble Sort"};
     algorithms[2] = {srtviz::algorithms::selection_sort, "Selection Sort"};
     algorithms[3] = {srtviz::algorithms::insertion_sort, "Insertion Sort"};
+    algorithms[4] = {srtviz::algorithms::mergesort_sort, "Merge Sort"};
 
     // Create array of 100 random numbers
     int numbers_len = 600;

@@ -13,6 +13,7 @@ add_executable(
         source/algorithms/bubble.cpp
         source/algorithms/selection.cpp
         source/algorithms/insertion.cpp
+        source/algorithms/mergesort.cpp
 )
 
 # Links SFML to the executable
